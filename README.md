@@ -11,3 +11,8 @@ Documentation
 * [HTML5 Draft](http://dev.w3.org/geo/api/spec-source-orientation.html)
 * [DeviceMotionEvent](http://developer.apple.com/library/safari/#documentation/SafariDOMAdditions/Reference/DeviceMotionEventClassRef/DeviceMotionEvent/DeviceMotionEvent.html)
 * [DeviceOrientation](http://developer.apple.com/library/safari/#documentation/SafariDOMAdditions/Reference/DeviceOrientationEventClassRef/DeviceOrientationEvent/DeviceOrientationEvent.html)
+
+Notes
+-----
+
+* Possibly works in Chrome on MacBooks (probably looks ugly though).
